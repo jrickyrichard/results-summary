@@ -57,12 +57,14 @@ body {
 }
 
 section  {
+  border-radius: 2em;
   margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  /* width: 100%; */
   text-align: center;
+  box-shadow: rgba(43, 209, 250, 0.2) 0px 10px 15px;
   }
 
 #result {
